@@ -1,0 +1,95 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+}
+header {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  background: #1D1D1F;
+  padding: 2rem;
+}
+ ul {
+  display: flex;
+  justify-content: space-between;
+  font-style: italic;
+  font-size: 10px;
+  width: 350px;
+}
+ ul li {
+  list-style: none;
+}
+ul li a{
+  text-decoration: none;
+    color: #fff;
+}
+.logo a {
+  color: white;
+  transition-duration: 1s;
+}
+.logo a:hover {
+  color: rgb(240, 197, 6);
+  transition-duration: 1s;
+}
+.habesh_kemise{
+  margin-top: 1em;
+}
+a{
+  width: 30%;
+}
+ img{
+width: 100%;
+height: auto;
+}
+.habesh_photo{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+h1{
+  margin: 1em;
+  font-size: 16px;
+  align-items: center;
+  align-content: center;
+}
+.couples{
+  margin-top: 1em;
+}
+a{
+ width: 30%;
+}
+.couples_img{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: auto;
+  margin-right:1px;
+}
+.tishet1{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: auto;
+  margin-top: 1em;
+}
+ .tishet2{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: auto;
+  margin-top: 1em;
+ }
+ .cardinal{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: auto;
+  margin-top: 1em;
+ }
