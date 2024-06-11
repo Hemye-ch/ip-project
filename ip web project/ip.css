@@ -39,57 +39,12 @@ ul li a{
 a{
   width: 30%;
 }
- img{
-width: 100%;
-height: auto;
-}
-.habesh_photo{
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-
-}
-h1{
-  margin: 1em;
-  font-size: 16px;
-  align-items: center;
-  align-content: center;
-}
-.couples{
+.habesh_kemise{
+  display: grid;
+  grid-template-columns: 25%;
+  grid-template-rows: 25%;
+  grid-gap: 3px;
   margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
 }
-a{
- width: 30%;
-}
-.couples_img{
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  width: 100%;
-  height: auto;
-  margin-right:1px;
-}
-.tishet1{
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  width: 100%;
-  height: auto;
-  margin-top: 1em;
-}
- .tishet2{
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  width: 100%;
-  height: auto;
-  margin-top: 1em;
- }
- .cardinal{
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  width: 100%;
-  height: auto;
-  margin-top: 1em;
- }
